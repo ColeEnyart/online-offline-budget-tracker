@@ -1,7 +1,7 @@
-# online-offline-budget-tracker
+# Online Offline Budget Tracker
 
 ## Link To Deployed Page
-[Tech Blog Website](https://coleenyart-budget-tracker.herokuapp.com/)
+[Budget Tracker Website](https://coleenyart-budget-tracker.herokuapp.com/)
 
 ## Objective
 A budget tracker website that tracks expenses and deposits to a users budget. Can be used with or without a connection to online.
